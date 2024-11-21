@@ -1,0 +1,91 @@
+{
+    "class": "IT 7A-FSD",
+    "room": "219",
+    "semester": "7",
+    "timetable": [
+        {
+            "day": "Monday",
+            "slots": [
+                {"time": "8:30-9:30", "subject": "C#.Net Lab", "teacher": "Mr. Ayush"},
+                {"time": "9:30-10:25", "subject": "C#.Net Lab", "teacher": "Mr. Ayush"},
+                {"time": "10:25-10:55", "subject": "Break"},
+                {"time": "10:55-11:50", "subject": "Web and Mobile Application Testing and Deployment", "teacher": "Mr. Sachin Chauhan"},
+                {"time": "11:50-12:45", "subject": "C#.Net", "teacher": "Mr. Ayush"},
+                {"time": "12:45-1:40", "subject": "Mobile App Development", "teacher": "Ms. Archana Mongia"},
+                {"time": "1:40-2:10", "subject": "Break"},
+                {"time": "2:10-3:05", "subject": "Web and Mobile Application Testing and Deployment", "teacher": "Mr. Sachin Chauhan"},
+                {"time": "3:05-4:00", "subject": "Web and Mobile Application Testing and Deployment", "teacher": "Mr. Sachin Chauhan"}
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "slots": [
+                {"time": "8:30-9:30", "subject": "Blockchain Technology", "teacher": "Mr. Gautam"},
+                {"time": "9:30-10:25", "subject": "Principles of Entrepreneurship Mindset", "teacher": "Ms. Megha Kumari"},
+                {"time": "10:25-10:55", "subject": "Break"},
+                {"time": "10:55-11:50", "subject": "Blockchain Technology", "teacher": "Mr. Gautam"},
+                {"time": "11:50-12:45", "subject": "C#.Net", "teacher": "Mr. Ayush"},
+                {"time": "12:45-1:40", "subject": "Web and Mobile Application Testing and Deployment", "teacher": "Mr. Sachin Chauhan"},
+                {"time": "1:40-2:10", "subject": "Break"},
+                {"time": "2:10-3:05", "subject": "Mobile App Development", "teacher": "Ms. Archana Mongia"},
+                {"time": "3:05-4:00", "subject": "Mobile App Development", "teacher": "Ms. Archana Mongia"}
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "slots": [
+                {"time": "8:30-9:30", "subject": "Mobile App Development", "teacher": "Ms. Archana Mongia"},
+                {"time": "9:30-10:25", "subject": "PHP & MySQL", "teacher": "Mr. Manvendra"},
+                {"time": "10:25-10:55", "subject": "Break"},
+                {"time": "10:55-11:50", "subject": "C#.Net", "teacher": "Mr. Ayush"},
+                {"time": "11:50-12:45", "subject": "Blockchain Technology", "teacher": "Mr. Gautam"},
+                {"time": "12:45-1:40", "subject": "Mobile App Development", "teacher": "Ms. Archana Mongia"},
+                {"time": "1:40-2:10", "subject": "Break"},
+                {"time": "2:10-3:05", "subject": "Mobile App Development", "teacher": "Ms. Archana Mongia"},
+                {"time": "3:05-4:00", "subject": "Blockchain Technology", "teacher": "Mr. Gautam"}
+            ]
+        },
+        {
+            "day": "Thursday",
+            "slots": [
+                {"time": "8:30-9:30", "subject": "PHP & MySQL", "teacher": "Mr. Manvendra"},
+                {"time": "9:30-10:25", "subject": "Mobile App Development", "teacher": "Ms. Archana Mongia"},
+                {"time": "10:25-10:55", "subject": "Break"},
+                {"time": "10:55-11:50", "subject": "PHP & MySQL", "teacher": "Mr. Manvendra"},
+                {"time": "11:50-12:45", "subject": "PHP & MySQL", "teacher": "Mr. Manvendra"},
+                {"time": "12:45-1:40", "subject": "Mobile App Development", "teacher": "Ms. Archana Mongia"},
+                {"time": "1:40-2:10", "subject": "Break"},
+                {"time": "2:10-3:05", "subject": "PHP & MySQL Lab", "teacher": "Mr. Manvendra"},
+                {"time": "3:05-4:00", "subject": "PHP & MySQL Lab", "teacher": "Mr. Manvendra"}
+            ]
+        },
+        {
+            "day": "Friday",
+            "slots": [
+                {"time": "8:30-9:30", "subject": "Major Project", "teacher": "NA"},
+                {"time": "9:30-10:25", "subject": "Major Project", "teacher": "NA"},
+                {"time": "10:25-10:55", "subject": "Break"},
+                {"time": "10:55-11:50", "subject": "Major Project", "teacher": "NA"},
+                {"time": "11:50-12:45", "subject": "Major Project", "teacher": "NA"},
+                {"time": "12:45-1:40", "subject": "Major Project", "teacher": "NA"},
+                {"time": "1:40-2:10", "subject": "Break"},
+                {"time": "2:10-3:05", "subject": "Major Project", "teacher": "NA"},
+                {"time": "3:05-4:00", "subject": "Major Project", "teacher": "NA"}
+            ]
+        },
+        {
+            "day": "Saturday",
+            "slots": [
+                {"time": "8:30-9:30", "subject": "Activity", "teacher": "NA"},
+                {"time": "9:30-10:25", "subject": "Activity", "teacher": "NA"},
+                {"time": "10:25-10:55", "subject": "Break"},
+                {"time": "10:55-11:50", "subject": "Activity", "teacher": "NA"},
+                {"time": "11:50-12:45", "subject": "Activity", "teacher": "NA"},
+                {"time": "12:45-1:40", "subject": "Activity", "teacher": "NA"},
+                {"time": "1:40-2:10", "subject": "Break"},
+                {"time": "2:10-3:05", "subject": "Activity", "teacher": "NA"},
+                {"time": "3:05-4:00", "subject": "Activity", "teacher": "NA"}
+            ]
+        }
+    ]
+}
